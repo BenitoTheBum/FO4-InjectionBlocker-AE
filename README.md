@@ -15,4 +15,4 @@ Edit `Data\F4SE\Plugins\InjectionBlocker.ini` to toggle blocking per record cate
 ### Credits & Source Code (GPLv3)
 * **Original Mod:** [Leveled List Injection Blocker](https://nexusmods.com) by **GELUXRUM**
 * **License:** Licensed under **GPLv3** in accordance with the original release.
-* **Source Code:** [Your GitHub Repository Link Here]
+* **Source Code:** [Your GitHub Repository Link Here](https://github.com/BenitoTheBum/FO4-InjectionBlocker-AE/tree/main)
