@@ -1,0 +1,10 @@
+{
+  "name": "glxrm-injectionblocker",
+  "version-string": "1.0.0",
+  "description": "InjectionBlocker for Fallout 4 Anniversary Edition",
+  "homepage": "https://github.com/Dear-Modding-FO4/commonlibf4",
+  "license": "MIT",
+  "dependencies": [
+    "spdlog"
+  ]
+}
